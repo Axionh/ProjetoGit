@@ -1,5 +1,5 @@
 # ProjetoGit
-<<<<<<< HEAD
+
 <h1>Atividade sobre versionamento do curso Full Stack ministrado pelo Senai</h1>
 	<p>Tutor: Eduardo Mendes da Costa</p>
 	<p>Aluno: Alexandre Hoss</p>
@@ -15,7 +15,6 @@
 	<h1>Descrição das atividades:</h1>
 	<hr></hr>
 		<ul>
->>>>>>> tarefa01/ramo
 		<li>Acesse o site https://git-scm.com/downd/win .
 		<li>Instale a ferramenta GIT.
 		<li>Crie seu usuário e forneça um endereço de e-mail.
