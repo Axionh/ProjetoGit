@@ -45,5 +45,13 @@
 <p>git tag -a____-m "___"		-usado para criar tags de versões diferentes e lançamentos ou releases paraciais. Após o -a vem a versão e após o -m entre"___"vem o nome da versão</p>
 
 
+
 <h1>Encontro remoto</h1>
 <p>Encontro realizado no dia 26 sobre versionamento usando o git e github</p>
+=======
+<h1>Nome alunos</h1>
+<p>Alexandre</p>
+<p>Martin</p>
+<p>Flávio</p>
+<p>Silvia</p>
+
