@@ -43,3 +43,9 @@
 <p>git clone				-vem acompanhado do link do github e faz um clone do repositório remoto</p>
 <p>git merge				-usado para fundir dois ramos em um só
 <p>git tag -a____-m "___"		-usado para criar tags de versões diferentes e lançamentos ou releases paraciais. Após o -a vem a versão e após o -m entre"___"vem o nome da versão</p>
+
+<h1>Nome alunos</h1>
+<p>Alexandre</p>
+<p>Martin</p>
+<p>Flávio</p>
+<p>Silvia</p>
